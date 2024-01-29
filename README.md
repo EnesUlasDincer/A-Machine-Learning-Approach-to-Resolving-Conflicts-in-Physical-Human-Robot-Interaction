@@ -1,6 +1,4 @@
-# Can-a-Robot-Resolve-Conflicts-with-a-Human-During-Co-Manipulation-?
-
-# Co-Manipulation Conflict Resolution Paper
+# Can a Robot Resolve Conflicts with a Human During Co Manipulation?
 
 ## Overview
 This GitHub repository contains resources related to the research paper titled "Can a Robot Resolve Conflicts with a Human During Co-Manipulation?" authored by Enes Ulas Dincer, Zaid Al-Saadi, Yahya M. Hamad, Yusuf Aydin, Ayse Kucukyilmaz, and Cagatay Basdogan.
