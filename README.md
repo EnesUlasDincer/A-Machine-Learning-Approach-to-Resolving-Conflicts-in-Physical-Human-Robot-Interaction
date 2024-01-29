@@ -13,7 +13,7 @@ The results show that the proposed ML approach is superior to the others in task
 ### Contents
 - **Animations:** This folder contains animations and visual demonstrations of co-manipulation scenarios used in the research to illustrate the interactions and conflict resolution strategies.
 
-- **Questionnaires:** The "Questionnaires" folder contains the detailed questionnaire administered after the experiments, which contains several variables, covering a spectrum of dimensions, to measure the subjective opinion of the participants. These responses provide insights into user preferences and perceptions related to human-robot interaction.
+- **Questionnaire:** The "Questionnaire" folder contains the detailed questionnaire administered after the experiments, which contains several variables, covering a spectrum of dimensions, to measure the subjective opinion of the participants. These responses provide insights into user preferences and perceptions related to human-robot interaction.
 
 ## Usage
 Feel free to explore the animations and questionnaires in this repository to gain a better understanding of the research and its findings. If you wish to use or reference the materials in your own work, please make sure to appropriately cite the original paper.
