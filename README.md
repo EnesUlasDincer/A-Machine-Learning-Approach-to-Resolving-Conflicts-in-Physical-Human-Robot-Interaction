@@ -12,6 +12,13 @@ The results show that the proposed ML approach is superior to the others in task
 
 ### Contents
 - **Animations:** This folder contains animations and visual demonstrations of co-manipulation scenarios used in the research to illustrate the interactions and conflict resolution strategies.
+  - **Current Object Location:** A black rectangle on the screen represents the current location of the manipulated object.
+
+  - **Robot's Force Vector:** A green arrow points in the direction of the force applied by the robot. The length and direction of the arrow indicate the magnitude and direction of the robot's force vector.
+
+  - **Robot's Intended Goal:** A dashed green rectangle outlines the robot's intended goal location. This serves as a visual reference for where the robot aims to move the object during the interaction.
+
+  - **Human's Force Vector:** A blue arrow represents the force exerted by the human participant. Similar to the robot's force vector, the length and direction of the blue arrow illustrate the magnitude and direction of the human's force vector during the co-manipulation task.
 
 - **Questionnaire:** The "Questionnaire" folder contains the detailed questionnaire administered after the experiments, which contains several variables, covering a spectrum of dimensions, to measure the subjective opinion of the participants. These responses provide insights into user preferences and perceptions related to human-robot interaction.
 
