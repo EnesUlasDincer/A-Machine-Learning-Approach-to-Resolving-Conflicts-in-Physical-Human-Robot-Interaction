@@ -1,7 +1,7 @@
-# Can a Robot Resolve Conflicts with a Human During Co Manipulation?
+# A Machine Learning Approach to Resolving Conflicts in Physical Human-Robot Interaction
 
 ## Overview
-This GitHub repository contains resources related to the research paper titled "Can a Robot Resolve Conflicts with a Human During Co-Manipulation?" authored by Enes Ulas Dincer, Zaid Al-Saadi, Yahya M. Hamad, Yusuf Aydin, Ayse Kucukyilmaz, and Cagatay Basdogan.
+This GitHub repository contains resources related to the research paper titled "A Machine Learning Approach to Resolving Conflicts in Physical Human-Robot Interaction" authored by Enes Ulas Dincer, Zaid Al-Saadi, Yahya M. Hamad, Yusuf Aydin, Ayse Kucukyilmaz, and Cagatay Basdogan.
 
 ### Paper Abstract
 As artificial intelligence techniques become more sophisticated, we anticipate that robots collaborating with humans will develop their own intentions, leading to potential conflicts in interaction. This development calls for advanced conflict resolution strategies in physical human-robot interaction (pHRI), a key focus of our research. We use a Machine Learning (ML) classifier to detect conflicts during co-manipulation tasks to adapt the behavior of the robot accordingly using an admittance controller. In our approach, we focus on two groups of interactions, namely "harmonious" and "conflicting," corresponding to the cases of the human and the robot working in harmony to transport an object when they aim for the same target and human and robot are in conflict when human changes the manipulation plan such as a change in direction of movement or parking location of the object, respectively.
