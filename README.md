@@ -27,6 +27,15 @@ The results show that the proposed ML approach is superior to the others in task
     - **Sub-task 3:** Examines the human effort under Passive and ML modes, showing that the Passive mode leads to higher effort on average.
     - **Sub-task 4:** Presents representative animations of the manipulated object under all four interaction modes, providing a comprehensive view of how each mode impacts the co-manipulation task.
 
+- **Comparative Evaluation of Machine Learning Models Using Various Cross-Validation Techniques Introduction**: 
+  - **Introduction:** This report presents a comprehensive evaluation of three popular machine learning models: Neural Networks, Random Forests, and Support Vector Machines (SVM), across different cross-validation setups. The aim is to identify the model and parameter configuration that yields the highest classification accuracy in our dataset.
+  
+  - **Methodology:**: We employed three types of cross-validation methods to evaluate the robustness of the models:
+    
+    - **K-Fold Cross-Validation:** The dataset was divided into (K = 4, 5, 6, 8) subsets. Each subset was used as a training set sequentially, with the remaining subsets forming the test set.
+    - **Subject-Wise Cross-Validation:** The dataset was divided into sub-groups of (N = 4, 5, 6) participants. Data from each sub-group was used as a training set sequentially, with the remaining sub-groups forming the test set.
+    - **Trial-Wise Cross-Validation:** The dataset was divided into sub-sets of (T = 22, 24, 26) trials. Each sub-set was used as a training set  sequentially, with the remaining trials forming the test set.
+
 - **Questionnaire:** The "Questionnaire" folder contains the detailed questionnaire administered after the experiments, which contains several variables, covering a spectrum of dimensions, to measure the subjective opinion of the participants. These responses provide insights into user preferences and perceptions related to human-robot interaction.
 
 ## Usage
