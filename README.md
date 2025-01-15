@@ -44,7 +44,7 @@ Feel free to explore the animations and questionnaires in this repository to gai
 ## Citation
 If you find this research or its materials useful in your work, please cite the original paper:
 
-[INSERT CITATION HERE]
+[Enes Ulas Dincer, Zaid Al-Saadi, Yahya M. Hamad, Yusuf Aydin, Ayse Kucukyilmaz, and Cagatay Basdogan. 2025. A Machine Learning Approach to Resolving Conflicts in Physical Human-Robot Interaction. J. Hum.-Robot Interact. Just Accepted (January 2025). https://doi.org/10.1145/3706029]
 
 ## Contact
 For any questions or inquiries related to this research, you can contact the authors:
